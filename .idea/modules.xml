@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/springaop.iml" filepath="$PROJECT_DIR$/.idea/springaop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springaop.iml" filepath="$PROJECT_DIR$/springaop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redis-cache/springaop-redis-cache.iml" filepath="$PROJECT_DIR$/redis-cache/springaop-redis-cache.iml" />
     </modules>
   </component>
 </project>

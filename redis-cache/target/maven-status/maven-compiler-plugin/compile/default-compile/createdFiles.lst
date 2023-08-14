@@ -1,0 +1,8 @@
+com/maluxinyu/springaop/rediscache/aop/RedisCacheAop.class
+com/maluxinyu/springaop/rediscache/RedisCacheApplication.class
+com/maluxinyu/springaop/rediscache/config/DemoDataSource.class
+com/maluxinyu/springaop/rediscache/service/RedisService.class
+com/maluxinyu/springaop/rediscache/persistence/mybatisplus/mapper/SchoolMapper.class
+com/maluxinyu/springaop/rediscache/persistence/mybatisplus/po/School.class
+com/maluxinyu/springaop/rediscache/annotation/RedisCache.class
+com/maluxinyu/springaop/rediscache/constant/Constant.class

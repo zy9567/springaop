@@ -1,0 +1,8 @@
+/Users/zhangyu/learn/springaop/redis-cache/src/main/java/com/maluxinyu/springaop/rediscache/config/DemoDataSource.java
+/Users/zhangyu/learn/springaop/redis-cache/src/main/java/com/maluxinyu/springaop/rediscache/persistence/mybatisplus/mapper/SchoolMapper.java
+/Users/zhangyu/learn/springaop/redis-cache/src/main/java/com/maluxinyu/springaop/rediscache/service/RedisService.java
+/Users/zhangyu/learn/springaop/redis-cache/src/main/java/com/maluxinyu/springaop/rediscache/aop/RedisCacheAop.java
+/Users/zhangyu/learn/springaop/redis-cache/src/main/java/com/maluxinyu/springaop/rediscache/persistence/mybatisplus/po/School.java
+/Users/zhangyu/learn/springaop/redis-cache/src/main/java/com/maluxinyu/springaop/rediscache/RedisCacheApplication.java
+/Users/zhangyu/learn/springaop/redis-cache/src/main/java/com/maluxinyu/springaop/rediscache/annotation/RedisCache.java
+/Users/zhangyu/learn/springaop/redis-cache/src/main/java/com/maluxinyu/springaop/rediscache/constant/Constant.java
